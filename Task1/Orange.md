@@ -1,2 +1,2 @@
 #Do cool things that matter
-####learn from GKuChan
+####learning from GKuChan
