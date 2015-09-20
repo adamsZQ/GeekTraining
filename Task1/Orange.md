@@ -1,2 +1,3 @@
-#Do cool things that matter
-####learning from GKuChan
+###Do cool things that matter ——GKuChan
+###朱天成 软件学院
+
